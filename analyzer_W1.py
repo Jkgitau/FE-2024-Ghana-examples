@@ -9,7 +9,7 @@ from idmtools.entities import IAnalyzer
 from idmtools.entities.simulation import Simulation
 import manifest
 
-## For plotting
+## For plotting data
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 import matplotlib.dates as mdates
